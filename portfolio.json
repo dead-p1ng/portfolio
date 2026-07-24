@@ -14,6 +14,21 @@
       ],
       "priority": 9,
       "published_at": "2026-07-17T14:10:40.883+00:00"
+    },
+    "portfolio": {
+      "id": "portfolio",
+      "title": "Portfolio",
+      "summary": "",
+      "github_repo": "portfolio",
+      "domain_id": "it",
+      "project_type": [
+        "product"
+      ],
+      "routes": [
+        "project"
+      ],
+      "priority": 3,
+      "published_at": "2026-07-24T12:08:17.373+00:00"
     }
   }
 }
