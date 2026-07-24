@@ -1,0 +1,29 @@
+{
+  "id": "portfolio",
+  "username": "Saurav",
+  "title": "Portfolio",
+  "summary": null,
+  "type": null,
+  "priority": null,
+  "domain_id": null,
+  "paths": [],
+  "skills": [],
+  "tags": [],
+  "external_docs": [],
+  "your_rank": null,
+  "your_rank_note": null,
+  "github_repo": "portfolio",
+  "status": "draft",
+  "agent_visible": true,
+  "visibility": "on",
+  "project_type": [
+    "product"
+  ],
+  "routes": [
+    "project"
+  ],
+  "aeo_tags": [],
+  "created_at": "2026-07-24T12:04:51.065+00:00",
+  "published_at": null,
+  "multi_repo": false
+}
