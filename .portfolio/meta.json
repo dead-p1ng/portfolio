@@ -25,5 +25,12 @@
   "aeo_tags": [],
   "created_at": "2026-07-24T12:04:51.065+00:00",
   "published_at": null,
-  "multi_repo": false
+  "multi_repo": true,
+  "repo_type": "primary",
+  "label": null,
+  "primary_repo": null,
+  "secondary_repo": [
+    "portfolio-backend"
+  ],
+  "repo_link": "portfolio"
 }
