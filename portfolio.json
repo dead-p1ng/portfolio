@@ -37,13 +37,15 @@
       "github_repo": "murmur-prototype",
       "domain_id": "it",
       "project_type": [
-        "product"
+        "product",
+        "research_paper"
       ],
       "routes": [
-        "project"
+        "project",
+        "research"
       ],
       "priority": 4,
-      "published_at": "2026-07-26T02:01:38.607+00:00"
+      "published_at": "2026-07-26T02:03:39.791+00:00"
     }
   }
 }
